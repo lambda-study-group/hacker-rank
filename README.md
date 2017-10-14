@@ -1,11 +1,11 @@
 # Hacker Rank - Functional Programming
 
-### Como participar?
-Colocar a resolução do seu exercicio dentro da devida pasta com o nome usando a sua linguagem de preferencia (Estamos dando prioridade a elixir e haskell)
+### How to participate
+Put your resolution for the challenge into the appropriate folder. The file name should be your username on GitHub.
 
-**Formato do arquivo:**  (nomeNoGithub).ex
+**File name format:**  `<github username>.ext`
 
-Ficando com uma estrutura assim:
+The folder structure should look like:
 
 * 1 - Introduction
     * 1 - Solve me first
