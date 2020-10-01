@@ -1,0 +1,1 @@
+(fn[lst] (count lst))
